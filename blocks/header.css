@@ -1,0 +1,16 @@
+.header {
+  display: flex;
+  flex-direction: column;
+}
+
+.logo {
+  margin: 34px auto 0;
+}
+
+@media screen and (max-width: 544px) {
+  .logo {
+    max-width: 188px;
+    max-height: 52px;
+    margin: 20px auto 0;
+  }
+}
