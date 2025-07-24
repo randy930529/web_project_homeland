@@ -22,6 +22,11 @@ La página muestra una introducción, imágenes y textos que invitan a los usuar
 - `/vendor`: Archivos de terceros como normalize.css y tipografías.
 - `/images`: Imágenes utilizadas en la página.
 
+## Visita el sitio
+
+Visitar el proyecto en línea aquí:  
+[https://randy930529.github.io/web_project_homeland/](https://randy930529.github.io/web_project_homeland/)
+
 ## Autor
 
 Randy Delgado
