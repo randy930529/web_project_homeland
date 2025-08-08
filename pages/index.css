@@ -6,4 +6,7 @@
 @import "../blocks/lead.css";
 @import "../blocks/content.css";
 @import "../blocks/intro.css";
+@import "../blocks/photo-grid.css";
+@import "../blocks/places.css";
+@import "../blocks/place.css";
 @import "../blocks/footer.css";
