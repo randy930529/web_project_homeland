@@ -10,7 +10,7 @@ La página muestra una introducción, imágenes y textos que invitan a los usuar
 
 - **HTML5**: Estructura semántica del sitio.
 - **CSS3**: Estilos personalizados y adaptativos, incluyendo:
-  - Flexbox para la disposición de elementos.
+  - Flexbox y Grid para la disposición de elementos.
   - Media queries para diseño responsivo.
 - **Normalize.css**: Para asegurar la consistencia de estilos entre navegadores.
 - **Fuentes personalizadas**: Uso de la familia tipográfica "Inter".
